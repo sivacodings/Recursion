@@ -1,37 +1,4 @@
-package tricky_programs;
 
-
-//
-//{
-//	public static void main(String[] args) throws Exception
-//	{
-//	
-//        DataInputStream obj=new DataInputStream(System.in);
-//        System.out.println("Enter any number");
-//        int user_input=Integer.parseInt(obj.readLine());
-//        print(user_input);
-//	
-//	}
-//	static int count=1;
-////	
-////	static void print(int number)
-////	{
-////		/*System.out.println(count);
-////		count++;
-//		//++number;
-//		if (count==number+1) 
-//		
-//			return ;
-//		print(number);
-//		*/
-	
-	// Recursion:
-		
-//	if(number==0) {
-//		return;  //when we do not denote the return its show the stackoverflow error.
-//	}
-//	print(number-1);
-//	System.out.print(number+" ");
 import java.io.DataInputStream;
 import java.io.IOException;
 
